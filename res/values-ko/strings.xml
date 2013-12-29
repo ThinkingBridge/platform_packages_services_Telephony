@@ -615,4 +615,13 @@
     <string name="dtmf_tone_enable_title" msgid="827601042915852989">"다이얼패드 터치음"</string>
     <string name="dial_pad_autocomplete" msgid="494525952035761075">"다이얼패드 자동완성"</string>
     <string name="preference_category_ringtone" msgid="5197960752529332721">"벨소리 및 진동"</string>
+    
+    <!-- Sprint MWI Quirk: Phantom message wait indicator workaround (Only sprint so don't korean translate -->
+    <string name="mwi_notification_title">Message wait indicator</string>
+    <string name="mwi_notification_summary">Show message wait indicator voicemail notifications</string>
+    
+    <!-- My Phone Number -->
+    <string name="phone_number_label">나의 휴대전화 번호</string>
+    <string name="phone_number_summary">이 휴대전화의 전화 번호를 설정</string>
+    <string name="msisdn_alpha_tag" translatable="false">Voice Line 1</string>
 </resources>
